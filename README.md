@@ -1,0 +1,2 @@
+# myjapan
+web development practice
